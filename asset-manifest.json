@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deploy-contest-4/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/deploy-contest-4/static/js/main.12d2851b.chunk.js",
+    "main.js.map": "/deploy-contest-4/static/js/main.12d2851b.chunk.js.map",
+    "runtime-main.js": "/deploy-contest-4/static/js/runtime-main.c28bb5b9.js",
+    "runtime-main.js.map": "/deploy-contest-4/static/js/runtime-main.c28bb5b9.js.map",
+    "static/js/2.58d520db.chunk.js": "/deploy-contest-4/static/js/2.58d520db.chunk.js",
+    "static/js/2.58d520db.chunk.js.map": "/deploy-contest-4/static/js/2.58d520db.chunk.js.map",
+    "static/js/3.76d0dbc1.chunk.js": "/deploy-contest-4/static/js/3.76d0dbc1.chunk.js",
+    "static/js/3.76d0dbc1.chunk.js.map": "/deploy-contest-4/static/js/3.76d0dbc1.chunk.js.map",
+    "index.html": "/deploy-contest-4/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/deploy-contest-4/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.58d520db.chunk.js.LICENSE.txt": "/deploy-contest-4/static/js/2.58d520db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c28bb5b9.js",
+    "static/js/2.58d520db.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.12d2851b.chunk.js"
+  ]
+}
